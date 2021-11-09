@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b5c5d639-b989-4791-ade3-c4b3dd435200/resourceGroups/sertacVMGroup/providers/Microsoft.Web/sites/mywebappsertac",
+    "appService.deploySubpath": "."
+}
